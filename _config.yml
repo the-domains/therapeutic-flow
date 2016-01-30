@@ -1,14 +1,26 @@
-layout_spectrum: 0.9480287
 color:
   saturation: 0.3610329
-  lightness: 0.226717
   brandStrength: 0.6434384
+  rhythmicContrast: 0.3742318
   brandColors:
     - '#FDFDFD'
     - '#5C04C6'
     - '#B4B4B4'
     - '#6466F2'
     - '#1588FC'
-  rhythmicContrast: 0.3742318
+  lightness: 0.226717
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+layout_spectrum: 0.9480287
 typography_spectrum: 0.8996416
 name: 'Therapeutic Flow '
