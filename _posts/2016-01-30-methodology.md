@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: What is Therapeutic Flow Massage?
-datePublished: '2016-01-30T18:31:07.127Z'
+datePublished: '2016-01-30T18:31:07.364Z'
 dateModified: '2016-01-30T18:31:04.825Z'
 title: Methodology
 author: []
