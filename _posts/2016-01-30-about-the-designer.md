@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: 'Meet Emily McBrayer, the designer of the Therapeutic Flow experience'
-datePublished: '2016-01-30T18:30:06.580Z'
+datePublished: '2016-01-30T18:30:06.648Z'
 dateModified: '2016-01-30T18:30:01.106Z'
 title: About the Designer
 author: []
