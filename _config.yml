@@ -1,14 +1,7 @@
-color:
-  saturation: 0.3610329
-  brandStrength: 0.6434384
-  rhythmicContrast: 0.3742318
-  brandColors:
-    - '#FDFDFD'
-    - '#5C04C6'
-    - '#B4B4B4'
-    - '#6466F2'
-    - '#1588FC'
-  lightness: 0.226717
+name: 'Therapeutic Flow '
+favicon: null
+layout_spectrum: 0.9480287
+typography_spectrum: 0.8996416
 collections:
   - index:
       path: /
@@ -21,6 +14,27 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-layout_spectrum: 0.9480287
-typography_spectrum: 0.8996416
-name: 'Therapeutic Flow '
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FDFDFD'
+    - '#5C04C6'
+    - '#B4B4B4'
+    - '#6466F2'
+    - '#1588FC'
+  brandStrength: 0.6434384
+  lightness: 0.8125
+  saturation: 0.375
+  rhythmicContrast: 0.3742318
+purpose: []
