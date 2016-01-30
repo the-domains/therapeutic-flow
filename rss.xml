@@ -4,8 +4,15 @@
         <description><![CDATA[Therapeutic Flow ]]></description>
         <link>https://thegrid.ai/therapeutic-flow/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 30 Jan 2016 17:49:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Jan 2016 18:30:12 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/therapeutic-flow/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[About the Designer]]></title>
+            <description><![CDATA[<article><h1>About the Designer</h1><p>Meet Emily McBrayer, the designer of the Therapeutic Flow experience</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/55e78f8f218fd2ac47e159a2a8f89533f37dd50c.jpg"></article>]]></description>
+            <link>https://thegrid.ai/therapeutic-flow/about-the-designer/index.html</link>
+            <guid isPermaLink="false">7373778c-f4ef-444c-a54c-ac2c66f8442c</guid>
+            <pubDate>Sat, 30 Jan 2016 18:30:06 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Second Post]]></title>
             <description><![CDATA[<article><h1>Second Post</h1><p>Relax the Mind, Heal the Body, Uplift the Spirit</p></article>]]></description>
