@@ -1,0 +1,14 @@
+layout_spectrum: 0.9480287
+color:
+  saturation: 0.3610329
+  lightness: 0.226717
+  brandStrength: 0.6434384
+  brandColors:
+    - '#FDFDFD'
+    - '#5C04C6'
+    - '#B4B4B4'
+    - '#6466F2'
+    - '#1588FC'
+  rhythmicContrast: 0.3742318
+typography_spectrum: 0.8996416
+name: 'Therapeutic Flow '
