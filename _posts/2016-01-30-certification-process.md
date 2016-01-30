@@ -6,7 +6,7 @@ inLanguage: null
 starred: false
 keywords: []
 description: Ready to bring Therapeutic Flow to your clients?
-datePublished: '2016-01-30T18:30:32.923Z'
+datePublished: '2016-01-30T18:30:32.927Z'
 dateModified: '2016-01-30T18:30:30.783Z'
 title: Certification Process
 author: []
